@@ -1,4 +1,4 @@
-# Tech Blog
+# JATE PWA
   ## Description
   A basic text editor. Much thanks to my Instructor Gary for setting this project up for success!
   
