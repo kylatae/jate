@@ -40,5 +40,5 @@
   ## Preview Page
 ![site review](./Assets/readme.png)
 
-Repo Link:[]()
-Deployed Link: []()
+Repo Link:[https://github.com/kylatae/jate](https://github.com/kylatae/jate)
+Deployed Link: [https://kylatae-jate-2bae45d06f2a.herokuapp.com/](https://kylatae-jate-2bae45d06f2a.herokuapp.com/)
